@@ -1,0 +1,845 @@
+{
+  "settings": {
+    "currentPage": "page2.html",
+    "versionFirst": "2.8.6",
+    "versionPublish": "2.8.6",
+    "name": "bibibiishki _ NL",
+    "favicon": "",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-74608623-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "publishType": "local",
+    "publishPath": "file:///Users/DADAPHONE/Desktop/WEBSITE%205.0",
+    "path": "file:///Users/DADAPHONE/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2016-02-03_171623",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Mobirise Mobile Website Builder",
+        "meta_descr": "Free Responsive Website Maker. Create awesome mobile-first websites. Easy and fast - No coding!",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            "P": {
+              "font-size": "23px",
+              "color": "#fac51c"
+            },
+            "H1": {
+              "text-align": "left"
+            },
+            "SPAN": {
+              "color": "#7ac673"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/schermafbeelding-2015-12-22-om-14-1177x627-13.png",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "<br><span style=\"color: inherit; font-family: inherit;\">BIBISHKI</span><br>",
+          "text": "<p>Illustrator en meer&nbsp;<a href=\"page2.html\" class=\"text-warning\">...</a><br><br></p>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">WERK NU</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;WERK VROEGER</a> "
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 BIBISHKI. &nbsp;<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\"><img alt=\"Creative Commons-Licentie\" src=\"https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png\"></a><br>"
+        },
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#fac51c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__items a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-12",
+          "_params": {
+            "color": "#fac51c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/foto-op-21-10-14-om-12-1080x720-17.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BIBISHKI</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"MODEL TEKENINGEN\">MODEL</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">OVER</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a></li>"
+        },
+        {
+          "_name": "contacts1",
+          "_anchor": "contacts1-15",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/oudefoto-1-1139x772-19.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "text1": "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\"><img alt=\"Creative Commons-Licentie\" src=\"https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png\"></a><br>Dit werk valt onder een <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\">Creative Commons Naamsvermelding-NietCommercieel-GeenAfgeleideWerken 4.0 Internationaal-licentie</a>.",
+          "text2": "THAT'S RIGHT BIAAATCH",
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>"
+        }
+      ]
+    },
+    "werk nu": {
+      "settings": {
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#fac51c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__items a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-6",
+          "_params": {
+            "color": "#fac51c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/schermafbeelding-2015-11-25-om-14-528x533-39.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BIBISHKI</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"MODEL TEKENINGEN\">MODEL</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">OVER</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a></li>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/25feb16-5-6817x9174-50-2000x2692-26.png",
+                "image": "@PROJECT_PATH@/assets/images/25feb16-5-6817x9174-50.png",
+                "active": true
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0221-3840x2160-80-2000x1125-38.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0221-3840x2160-80.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0005-3840x2160-60-2000x1125-38.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0005-3840x2160-60.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20151215-150624-2048x1536-67-2000x1500-98.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20151215-150624-2048x1536-67.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0836-3840x2160-34-2000x1125-10.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0836-3840x2160-34.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/25feb16-2-8378x6255-97-2000x1493-86.png",
+                "image": "@PROJECT_PATH@/assets/images/25feb16-2-8378x6255-97.png",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0380-3840x2160-62-2000x1125-50.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0380-3840x2160-62.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/25feb16-4-6817x9174-34-2000x2692-60.png",
+                "image": "@PROJECT_PATH@/assets/images/25feb16-4-6817x9174-34.png",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0032-3840x2160-0-2000x1125-36.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0032-3840x2160-0.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "bgColor": "#fac51c",
+            "fullWidth": true,
+            "noGutter": false
+          },
+          "_anchor": "gallery1-7",
+          "articleLayout": false
+        }
+      ]
+    },
+    "over mij": {
+      "settings": {
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#fac51c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__items a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-12",
+          "_params": {
+            "color": "#fac51c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-03-02-om-22-231x234-78.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BIBISHKI</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"MODEL TEKENINGEN\">MODEL</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">OVER</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a></li>"
+        },
+        {
+          "items": [
+            {
+              "text": "<p>Ik studeer illustratie , Nu in het derde jaar.&nbsp;<a href=\"page5.html\" class=\"text-danger\">hier</a>&nbsp;vind je portfolios van andere schoolvriendjes.</p>",
+              "authorName": "LUCA SCHOOL OF ARTS GHENT",
+              "authorBio": "9000"
+            },
+            {
+              "text": "Ik hou van jaren 80 muziek, dansen, zingen, &nbsp;rolschaatsen en grote mannen.",
+              "authorName": "THE HUMAN LEAGUE<br>THE TALKING HEADS",
+              "authorBio": "FAD GADGET"
+            },
+            {
+              "text": "<p><a href=\"https://www.instagram.com/catfishleo/\" target=\"_blank\">DIT</a>&nbsp;IS MIJN INSTAGRAM</p>",
+              "authorName": "CATFISHLEO",
+              "authorBio": "INSTAGRAM"
+            }
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-reviews__text": {
+              "text-align": "center",
+              "color": "#7ac673"
+            },
+            ".mbr-reviews__author-name": {
+              "color": "#fac51c"
+            },
+            ".mbr-section__header": {
+              "color": "#fac51c"
+            },
+            ".mbr-reviews__author-bio": {
+              "color": "#fac51c"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p>Ik studeer illustratie , Nu in het derde jaar.&nbsp;<a href=\"page5.html\" class=\"text-danger\">hier</a>&nbsp;vind je portfolios van andere schoolvriendjes.</p>",
+              "authorName": "LUCA SCHOOL OF ARTS GHENT",
+              "authorBio": "9000"
+            },
+            {
+              "text": "Ik hou van jaren 80 muziek, dansen, zingen, &nbsp;rolschaatsen en grote mannen.",
+              "authorName": "THE HUMAN LEAGUE<br>THE TALKING HEADS",
+              "authorBio": "FAD GADGET"
+            },
+            {
+              "text": "<p><a href=\"https://www.instagram.com/catfishleo/\" target=\"_blank\">DIT</a>&nbsp;IS MIJN INSTAGRAM</p>",
+              "authorName": "CATFISHLEO",
+              "authorBio": "INSTAGRAM"
+            }
+          ],
+          "_anchor": "testimonials1-11",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/schermafbeelding-2015-12-10-om-23-1249x603-22.png",
+            "bgColor": "#f7da64",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "en meer..."
+        },
+        {
+          "_styles": {},
+          "_name": "video1",
+          "_anchor": "video1-14",
+          "_params": {
+            "bgColor": "#252525",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=AWtCittJyr0&index=4&list=RDo9gK2fOq4MY",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            }
+          },
+          "text": ""
+        },
+        {
+          "_name": "image1",
+          "_anchor": "image1-13",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/opg-leonee-vannut-1379x722-6.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": ""
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#d14841"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article BLOCKQUOTE": {
+              "color": "#27aae0"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-17",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "PROJECT WOODEN LEG!",
+          "meta": "",
+          "text": "<blockquote>Project “ That is like a plaster on a wooden leg hé “ door Leonee Vannut\nIk wou al van toen ik klein was illustrator worden dus dat ben ik gaan studeren en in deze discipline heb ik een project. Ik heb van mijn leerkracht vijf verschillende woorden gekregen. Waar ik tevreden mee was, want eerst was onze opdracht iets over een niet zo interessant boek van de Romeinen. dit boek liet veel minder plaats voor eigen interpretaties. Mijn woorden zijn stoel, rode wouw, koeltoren, ochtendschemering en walging. Het moet een boek worden van 24 pagina’s met formaat 250 x 350 we mogen zelf kiezen of het liggend of staand is. Ik heb liggend gekozen. De techniek mochten we ook kiezen en ik ga in kleur met acryl schilderen op kartonnen paneeltjes. Ik doe dit al heel het jaar en ik vind het perfect omdat karton niet zoveel kost en ook niet veel weegt. waardoor deze makkelijk mee te nemen zijn naar huis om verder te werken. dit materiaal laat het ook toe om te experimenteren zonder te moeten inzitten over een hoge kost. De acrylverf is dan wel verloren en kost wel wat maar ik gebruik mijn verf heel verdund. Voor de acrylverf heb ik voor een signature pallet gekozen met amsterdam verf in de kleuren Yellowish Green en Napthol Red\nLight die ik meng met bister of witte verf. Die kleuren zijn de basiskleuren en zijn 50% van alle kleuren die gebruik in mijn schilderijen.\nIk begin elk project met een jaren 80 liedje. Ik luister voornamelijk naar jaren 80 muziek en nostalgie is mijn vaste radiozender. Ik begin vanuit de songteksten van deze nummers omdat ik vind dat de teksten veel inhoud bezitten tegenover de huidige populaire muziek. Op deze manier heb ik meteen een leidraad want ik durfde vroeger nogal van het ene idee op het andere springen en zo verhelp ik dit. Ik ben voor dit project begonnen met het liedje SmallTown Boy van bronksi beat.\nDit lied gaat over een jongen die zich niet meer thuis voelt en in de ochtend wegloopt. Zo begint mijn verhaal en onderweg wordt alles alleen maar erger. Eerst komt hij een rode wouw tegen die tegen een elektriciteitskabel is gevlogen. Deze sterft in zijn armen hij gaat verder en komt een hele oude vrouwelijke koeltoren tegen, deze doet heel negatief en gemeen hiervan wordt hij nog triester. Hij loopt verder en komt vervolgens een kwakzalver tegen die hem foute pillen voorschrijft om zich beter te voelen. Op het einde ziet hij het allemaal niet meer zitten. hij wenst dat hij dood was. Net op dit moment stort de vrouwelijke koeltoren in en sterft iedereen.\nAl de dingen die gebeuren hebben een link met de werkelijkheid.\nEr worden veel dode rode wouwen gevonden omdat deze vergiftigd worden. De Rode wouw staat op de lijst van bedreigde diersoorten. Onze koeltorens zijn oud en de vraag reist of deze niet beter gesloten zouden worden. Er zijn veel anti deprresiva waarvan het effectieve effect niet wetenschappelijk aan te tonen is. Mijn doelpubliek is iedereen het is een serieus thema. Daarom werk ik het uit in een vrij naïeve vrolijke kinderlijke stijl zodat het voor iedereen toegankelijk is.\nIk vind die dubbele lezing ( het serieuze thema maar de kinderlijke stijl) goed weergegeven in de boeken van Toon Tellegen, Je kan zijn boeken als kind lezen en er leuke dierenverhalen in zien. Maar als je deze dan jaren later als volwassene leest snap je dat het ook over zware thema’s zoals depressie en pijn gaat. Iets wat je als kind nog niet mee had. Ik vind dit heel interessant aan de stijl van Toon Tellegen.\nIk schilder dus vrolijke kleurrijke landschappen met simpele naïeve ventjes die heel erg stomme dingen meemaken. Ik merk dat als ik zelf erge dingen heb meegemaakt en daar over vertel dat ik ook altijd heel erg moet lachen, ik denk dat dat is om de harde waarheid dragelijker te maken of het simpelweg te kunnen vertellen. Ik trek dit dus duidelijk ook voort in mijn werk.\nMijn boek speelt in op de actualiteit en ik ben ook van plan zodra het af is het ook echt op te sturen naar uitgeverijen zoals oogachtend en bries.\nIk denk dat mijn boek interessant zal zijn om als volwassene aan kinderen te kunnen uitleggen waar al dat nieuws over gaat op een leuke aangename manier want mijn hoofdpersonage ventje vraagt heel de tijd maar waarom ? er worden veel vragen gesteld door kinderen. Maar vaak word hier nooit echt een antwoord op geformuleerd.</blockquote>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        }
+      ]
+    },
+    "werk vroeger": {
+      "settings": {},
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#fac51c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__items a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-12",
+          "_params": {
+            "color": "#fac51c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-03-02-om-22-231x234-86.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BIBISHKI</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"MODEL TEKENINGEN\">MODEL</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">OVER</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a></li>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/bloedneusalfabet-3508x4961-59-2000x2828-21.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bloedneusalfabet-3508x4961-59.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/h2-12094x9071-14-2000x1500-56.jpg",
+                "image": "@PROJECT_PATH@/assets/images/h2-12094x9071-14.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/0025-130304194028-001-1060x1872-95-1060x1872-96.jpg",
+                "image": "@PROJECT_PATH@/assets/images/0025-130304194028-001-1060x1872-95.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/staddagkopie-9374x4529-15-2000x966-45.jpg",
+                "image": "@PROJECT_PATH@/assets/images/staddagkopie-9374x4529-15.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/media-appel-3228x2346-99-2000x1454-33.jpg",
+                "image": "@PROJECT_PATH@/assets/images/media-appel-3228x2346-99.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/wp-20140617-011-1456x2592-83-1456x2592-54.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wp-20140617-011-1456x2592-83.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/wp-20140617-022-1456x2592-26-1456x2592-49.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wp-20140617-022-1456x2592-26.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20150506-141444-1142x1165-99-1142x1165-27.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20150506-141444-1142x1165-99.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2015-12-22-om-14-969x520-18-969x520-78.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2015-12-22-om-14-969x520-18.png",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/allopapsie-4-kopie-1345x756-15-1345x756-40.png",
+                "image": "@PROJECT_PATH@/assets/images/allopapsie-4-kopie-1345x756-15.png",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-20150103-210150-1008x1008-90-128x128-10.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20150103-210150-1008x1008-90.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#27aae0",
+            "fullWidth": false,
+            "noGutter": false
+          },
+          "_anchor": "gallery1-13",
+          "articleLayout": false
+        },
+        {
+          "_inherit": "soundcloud1",
+          "alias": "soundcloud",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F11980803",
+          "_name": "soundcloud2",
+          "_anchor": "soundcloud2-16",
+          "_params": {
+            "sound": "https://soundcloud.com/de-oester/tracks",
+            "autoplay": true,
+            "fullWidth": false
+          },
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F11980803&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
+        }
+      ]
+    },
+    "contact": {
+      "settings": {},
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#fac51c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__items a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-12",
+          "_params": {
+            "color": "#fac51c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-03-02-om-22-231x234-20.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BIBISHKI</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"MODEL TEKENINGEN\">MODEL</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">OVER</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a></li>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#7ac673"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "color": "#fac51c",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-15",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/schermafbeelding-2015-12-10-om-23-1247x604-26.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "CONTACT!",
+          "meta": "",
+          "text": "<p><a href=\"https://mail.google.com/mail/u/0/?shva=1#inbox\" target=\"_blank\" class=\"text-info\">leoneevannut@gmail.com</a></p><p><br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        }
+      ]
+    },
+    "vrienden": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#7ac673"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#9365b8"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-17",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#9365b8",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "VRIENDEN",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "DFKNSDFJKSHKDSLF",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fbc3ff55768928b52672bf0c37642203286079534.googledrive.com%2Fhost%2F0B1sFF54u01CRVlJJejFqcWNINUk%2F&amp;h=YAQFngzK0\" data-toolbar=\"-mbrBtnMove\">CHARLOTTE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ANDER VRIENDJE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">NOG EEN VRIENDJE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VRIENDINNEKE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">KENNIS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EX</a>"
+        }
+      ]
+    },
+    "MODEL TEKENINGEN": {
+      "settings": {},
+      "components": [
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0013-3840x2160-31-2000x1125-25.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0013-3840x2160-31.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0008-3840x2160-72-2000x1125-93.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0008-3840x2160-72.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0122-2160x3840-60-2000x3556-50.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0122-2160x3840-60.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0009-3840x2160-69-2000x1125-28.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0009-3840x2160-69.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0004-3840x2160-59-2000x1125-61.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0004-3840x2160-59.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0016-3840x2160-19-2000x1125-88.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0016-3840x2160-19.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0020-2160x3840-5-2000x3556-34.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0020-2160x3840-5.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0120-2160x3840-69-2000x3556-60.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0120-2160x3840-69.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "bgColor": "#27aae0",
+            "fullWidth": false,
+            "noGutter": true
+          },
+          "_anchor": "gallery1-17",
+          "articleLayout": false
+        }
+      ]
+    }
+  }
+}
